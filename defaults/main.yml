@@ -1,0 +1,5 @@
+---
+# defaults file for ejemplorol
+destinos:
+  - /etc/issue
+  - /etc/motd
